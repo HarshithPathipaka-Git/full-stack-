@@ -1,0 +1,25 @@
+#head {
+    text-align: center;
+}
+
+.card{
+    margin: 30px;
+    padding:20px;
+    /* background: rgb(177, 177, 255); */
+    border: 1px dotted blue;
+    display:flex
+}
+.avatar{
+    width: 150px;
+    display: inline;
+    border: 1px dotted blue;
+}
+
+.info{
+    padding: 20px;
+}
+
+.ff {
+    font-size: larger;
+    font-style: italic;
+}

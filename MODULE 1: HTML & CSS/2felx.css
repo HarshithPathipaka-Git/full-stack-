@@ -1,0 +1,21 @@
+#head{
+    text-align: center;
+}
+
+.plans{
+    padding: 20px;
+    display: flex;
+}
+.card{
+    padding: 30px;
+}
+
+.contact{
+
+margin-left: 40%;
+}
+
+.ff {
+    font-size: larger;
+    font-style: italic;
+}
