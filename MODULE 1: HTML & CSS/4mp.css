@@ -1,0 +1,14 @@
+.red{
+    height:150px;
+    width:150px;
+    border-radius: 100%;
+    background: rgb(106, 0, 0);
+
+    /* margin-left: 40%;
+    margin-top: 100px; */
+    padding:30px;
+
+    margin:40px auto 40px auto
+
+
+}
