@@ -1,0 +1,17 @@
+@font-face{
+    src: url("god.ttf");
+    font-family: god;
+   
+    
+}
+body{
+    text-align: center;
+    
+    
+}
+p{
+    font-family: god;
+    font-size: 100px;
+    text-align: start;
+}
+

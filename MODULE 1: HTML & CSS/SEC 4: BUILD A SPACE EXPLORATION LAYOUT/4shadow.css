@@ -1,0 +1,17 @@
+body{
+
+    background-color:whitesmoke;
+    text-align: center;
+    color: white;
+    font-family: 'kanit';
+
+
+}
+
+h1{
+    font-size: 160px;
+    text-shadow: 10px 10px black; 
+  
+}
+
+   /*where text-shadow : horizontal vertical color /*

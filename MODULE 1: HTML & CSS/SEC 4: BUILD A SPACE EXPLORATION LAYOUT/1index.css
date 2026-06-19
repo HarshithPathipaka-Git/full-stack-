@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #539ff0;
+    font-family: "Orbitron", sans-serif;
+    font-size: xxx-large;
+    font-optical-sizing: auto;
+    font-weight: 1000px;
+    font-style: normal;
+    
+
+
+}
+
+.hero{
+    
+    background-image: url("img/uni.jpg");
+    background-size:cover;
+    padding-bottom: 45%;
+}
+.b1{
+width: 150px;
+height: 70px;
+border-radius: 25px;
+font-family: 'Courier New', Courier, monospace;
+font-size: x-large;
+}
+
+.underline{
+    border-bottom: 7px solid  white;
+    
+
+}
+
+#title{
+    text-shadow: 10px 10px 10px rgb(0, 0, 0);
+}
+
+.terms{
+    margin:0;
+    padding:0;
+    background-color: #000000;
+}
