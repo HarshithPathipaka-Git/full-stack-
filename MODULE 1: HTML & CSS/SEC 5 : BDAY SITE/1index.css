@@ -1,0 +1,89 @@
+body{
+    text-align: center;
+    font-family: "Happy Monkey",cursive;
+    background:linear-gradient(rgb(37, 229, 246) ,pink );
+    color: whitesmoke;
+
+   
+
+
+}   
+#ene{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    border: 6px solid rgb(251, 54, 87);
+   
+
+}
+
+
+#header{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.a-info{
+    margin-top: 20px;
+    font-size: 50px;
+    margin-bottom: 0;
+    padding: 5px;
+    background:rgb(251, 54, 87) ;
+}
+.d-info{
+    font-size: 20px;
+    padding: 5px;
+    background:rgb(251, 54, 87) ;
+}
+.gift-title{
+    margin-bottom: 10px;
+}
+
+.gift-sec{
+    margin-top: 50px;
+
+}
+.gift-hint{
+    margin-top: 0;
+}
+
+.gift-img{
+    width: 400px;
+    height: 400px;
+    border:5px solid white ;
+    background-size: cover;
+    margin: 0 auto;
+   background-image: url("1gif.webp");
+}
+
+.gift-img:hover{
+    background-image: url("2a.jpeg");
+}
+
+
+#img2:hover{
+    background-image: url("1h.webp");
+    background-size: cover;
+}
+
+#last-gif{
+    height: 300px;
+    width: 700px;
+    background-size: cover;
+
+}
+
+footer{
+    margin: 20px;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace
+}
+
+.footer{
+    border-bottom: 1px solid black;
+}
+
+#link{
+    color: aliceblue;
+}
