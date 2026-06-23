@@ -71,6 +71,11 @@ console.log("lets Do recap ")
 
 Fuctions # onclick="function()"
 
+DOM (document object model )
+.getElementById
+innerText 
+textContent 
+
 
 -->
 
