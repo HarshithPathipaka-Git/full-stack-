@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    /* background-image: url(https://imgs.search.brave.com/NFyKH2g1djJy2gNPF6-luX_u58Ajq1QyuL6c6TKAgAs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ2/MDk2Mjc5MS9waG90/by9idXN5LWFpcnBv/cnQtdGVybWluYWwt/YXQtc3Vuc2V0Lmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1v/RzhSWTFNb1p5OUo0/RWVqZVNqeU5od0dQ/cFF2dUFESVItdHd6/cGFsbHRnPQ);
+    background-size: cover; */
+    color: aliceblue;
+    background-color: pink;
+    
+}
+
+#header {
+    font-size: 100px;
+    margin-bottom: 0%;
+}
+#countel{
+   margin: 20px ;
+    font-size:120px;
+}
+.btn{
+    width: 300px;
+    height: 50px;
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 700;
+    border-radius: 5px;
+    background-color: brown;
+    color: aliceblue;
+    margin-top: 0%;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(255, 0, 0);
+}
+
+#savebt{
+    background: green;
+}
+
+#savebt:hover{
+    background: rgb(0, 255, 0);
+}
+
+#save-el{
+    text-decoration: double;
+    font-size: 30px;
+    font-weight: 300;
+}

@@ -28,3 +28,21 @@ console.log(country);
 
 // use const by default .
 // use let when valuie need to change....
+
+// to run the code 
+// # first create a file name have intro.js 
+// # then open folder of the file u created 
+// # fint should contain the console.log(output need in terminal)
+// run command node intro.js
+
+
+let a1 = 55
+let a2 = 45
+let count = a1 + a2 
+console.log(count)
+
+let human = 18
+// human = 13
+let dogratio = 7
+let dog_age = human * dogratio
+console.log(dog_age)
